@@ -1,0 +1,13 @@
+==============================
+       CONVERSION MENU
+==============================
+1. Convert Decimal to Binary
+2. Convert Binary to Decimal
+3. Convert Hexadecimal to Decimal
+4. Convert Decimal to Hexadecimal
+5. Demo (Generate random integer and convert to binary)
+6. Exit
+
+Enter your choice (1-6): 1
+Enter a decimal number: 17
+Binary representation: 10001
